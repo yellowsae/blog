@@ -3,6 +3,8 @@
 
 ## ES6系列
 
+- [ES6新增了那些API](https://github.com/yellowsae/blog/issues/2)
+
 
 ## Vue系列
 
