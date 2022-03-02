@@ -11,5 +11,6 @@
 
 - [对vue的理解](https://github.com/yellowsae/blog/issues/1)
 - [ref与reactive的区别](https://github.com/yellowsae/blog/issues/4)
+- [Vue3中watch监视属性几个注意点](https://github.com/yellowsae/blog/issues/5)
 
 ## 其他
