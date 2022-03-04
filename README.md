@@ -14,3 +14,5 @@
 - [Vue3中watch监视属性几个注意点](https://github.com/yellowsae/blog/issues/5)
 
 ## 其他
+
+- [防抖和节流的区别](https://github.com/yellowsae/blog/issues/6)
