@@ -1,5 +1,4 @@
-# Blog
----
+![](https://imgtu.com/i/qFc9Yt)
 
 ## ES6系列
 
