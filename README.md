@@ -1,4 +1,3 @@
-![](https://imgtu.com/i/qFc9Yt)
 
 ## ES6系列
 
@@ -19,6 +18,7 @@
 
 - [webpack的优点](https://github.com/yellowsae/blog/issues/8)
 - [hash、chunkhash、contenthash的理解](https://github.com/yellowsae/blog/issues/10)
+- [webpack4性能总结](https://github.com/yellowsae/blog/issues/11)
 
 ## 其他
 
