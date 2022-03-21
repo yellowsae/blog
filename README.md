@@ -8,7 +8,7 @@
 
 ## Vue系列
 
-- [对vue的理解](https://github.com/yellowsae/blog/issues/1)
+- [对vue的理解](https://github.com/yellowsae/blog/issues/12)
 - [ref与reactive的区别](https://github.com/yellowsae/blog/issues/4)
 - [Vue3中watch监视属性几个注意点](https://github.com/yellowsae/blog/issues/5)
 - [Vue的父组件和子组件的生命周期执行顺序](https://github.com/yellowsae/blog/issues/9)
