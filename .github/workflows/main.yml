@@ -1,10 +1,10 @@
-# on: [push]  # 触发时机 ->  当执行 push 时
+on: [push]  # 触发时机 ->  当执行 push 时
 
-on: 
-  schedule: 
-  # 00: 01  -> Github 使用的是 UTC的时区 
-  # 相差8个小时  也就是 24 - 8  = 16
-    - cron: "1 16 * * *"
+# on: 
+#   schedule: 
+#   # 00: 01  -> Github 使用的是 UTC的时区 
+#   # 相差8个小时  也就是 24 - 8  = 16
+#     - cron: "1 16 * * *"
 jobs:  # 需要执行的 job 
   create_issuse_action:
     runs-on: ubuntu-latest # 指定运行的环境
