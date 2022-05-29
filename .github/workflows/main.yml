@@ -22,7 +22,7 @@ jobs:  # 需要执行的 job
         with:  # 传参用的
           token: ${{secrets.TOKEN}}   # 传参给 action.yml   -> 如果要指向另一个仓库的 action.yml 的话， 写的是另一个长裤的 TOKEN
           
-      # Use the output from the `hello` step  #  output 验证
+      # Use the output from the `hello` step  #  output 验证  
       # - name: Get the output time
       #   run: echo "The time was ${{ steps.hello.outputs.time }}"
 
