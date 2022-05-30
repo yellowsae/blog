@@ -8,6 +8,7 @@
 - [ES6新增了那些API](https://github.com/yellowsae/blog/issues/2)
 - [var、let和const的区别](https://github.com/yellowsae/blog/issues/3)
 - [普通函数和箭头函数的区别](https://github.com/yellowsae/blog/issues/7)
+- [使用new调用类的构造函数时，执行的操作](https://github.com/yellowsae/blog/issues/18)
 
 
 ## Vue系列
